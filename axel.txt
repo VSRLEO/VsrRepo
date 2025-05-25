@@ -1,0 +1,2 @@
+echo "One of the strongest member of inazuma ekleven"
+echo "axel blaze the flame striker"
