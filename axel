@@ -1,3 +1,6 @@
 echo"Let go back"
 echo "Let check commit"
+echo "let play pokemon go"
+echo "let's go with the new game "
+
 $date 
